@@ -3,7 +3,7 @@ URL_FRONTEND = 'http://localhost:3000'
 # host = 'https://eeb1-113-23-43-103.ngrok-free.app'
 # URL_FRONTEND = 'https://56cc-113-23-43-103.ngrok-free.app'
 host_qldt = 'https://qldt.ptit.edu.vn'
-SECRET_KEY = 'QwErTyUiOp1!@#$%^&*()'
+SECRET_KEY = 'something'
 
 # MYSQL_HOST = 'mysql-attack-qldt-attackqldt.a.aivencloud.com'
 # MYSQL_PORT = 28081
