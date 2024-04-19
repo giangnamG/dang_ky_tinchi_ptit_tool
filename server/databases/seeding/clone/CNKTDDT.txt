@@ -1,0 +1,76 @@
+#Khối kiến thức chung
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3
+Tư tưởng Hồ Chí Minh, BAS1122, 2 
+Đường lối cách mạng Đảng cộng sản Việt Nam, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Tin học cơ sở 2, INT1155, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+
+#Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+
+#Kiến thức kỹ năng chọn (3/7)
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập Văn bản, SKD1103, 1
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1
+Kỹ năng giải quyết vấn đề, SKD1106, 1
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+
+Giải tích 1, BAS1203, 3
+Giải tích 2, BAS1204, 3
+Đại số, BAS1201, 3 
+Vật lý 1 và thí nghiệm, BAS1224, 4 
+Vật lý 2 và thí nghiệm, BAS1225, 4 
+Xác suất thống kê, BAS1226, 2 
+Toán Kỹ thuật, BAS1221, 3 
+Hóa học, BAS1208, 2 
+Điện tử số, ELE1309, 3 
+Cơ sở đo lường điện tử, ELE1305, 2 
+Điện tử tương tự, ELE1310, 3 
+Lý thuyết mạch, ELE1318, 3 
+Cấu trúc dữ liệu và giải thuật, INT1306, 3 
+Kiến trúc máy tính, INT1323, 2 
+Xử lý tín hiệu số, ELE1330, 2 
+Lý thuyết thông tin, ELE1319, 3 
+Lý thuyết trường điện từ và siêu cao tần, ELE1320, 3 
+Mạng máy tính, INT1336, 3 
+Thực hành cơ sở, OTC1301, 3 
+Điện tử công suất, ELE1308, 3 
+Cơ sở điều khiển tự động, ELE1304, 3 
+Tổng quan về viễn thông, TEL1419, 2 
+Đồ án thiết kế mạch điện tử, ELE1412, 2 
+Truyền thông số, ELE1428, 2 
+Hệ thống nhúng, ELE1415, 3 
+Đồ án thiết kế hệ thống nhúng, ELE1413, 2 
+Công nghệ phát thanh truyền hình số, ELE1407, 2 
+Cơ sở mật mã học, ELE1406, 2 
+Xử lý ảnh, INT1362, 2 
+Xử lý tiếng nói, ELE1432, 3
+Đồ án thiết kế hệ thống số, ELE1411, 2 
+Thiết kế hệ thống VLSI, ELE1423, 2 
+Mạng cảm biến, ELE1421, 2 
+CAD/CAM, ELE1401, 2 
+Thiết bị ngoại vi và kỹ thuật ghép nối, ELE1427, 2 
+Kỹ thuật logic khả trình PLC, ELE1416, 2 
+Thiết kế IC số, ELE1424, 2 
+Thị giác máy tính, ELE1422, 2 
+Xử lý tín hiệu số thời gian thực, ELE1431, 2 
+Đồ án xử lý tín hiệu số, ELE1414, 2
+Truyền thông đa phương tiện, ELE1434, 2 
+Chuyên đề xử lý tín hiệu và truyền thông, ELE1403, 2 
+CAD/CAM, ELE1401, 2 
+Mạng cảm biến, ELE1421, 2 
+Xử lý ảnh y sinh, ELE1429, 2 
+Thị giác máy tính, ELE1422, 2

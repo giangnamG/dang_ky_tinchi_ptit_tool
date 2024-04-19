@@ -1,0 +1,79 @@
+#Khối kiến thức chung
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3
+Tư tưởng Hồ Chí Minh, BAS1122, 2 
+Đường lối cách mạng Đảng cộng sản Việt Nam, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Tin học cơ sở 2, INT1155, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+
+#Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+
+#Kiến thức kỹ năng chọn (3/7)
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập Văn bản, SKD1103, 1
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1
+Kỹ năng giải quyết vấn đề, SKD1106, 1
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+
+#Khối kiến thức cơ bản nhóm ngành
+Lý thuyết xác suất và thống kê, BAS1210, 3 
+Pháp luật đại cương, BSA1221, 2
+Toán cao cấp 1, BAS1219, 2
+Toán cao cấp 2, BAS1220, 2
+Toán kinh tế, BSA1241, 3
+
+# Kiến thức cơ sở ngành và ngành
+Kế toán quản trị 1, FIA1310, 3
+Kế toán tài chính 1, FIA1312, 3
+Kiểm toán căn bản, FIA1315, 3
+Kinh tế vĩ mô 1, BSA1311, 3
+Kinh tế vi mô 1, BSA1310, 3 
+Luật kinh doanh, BSA1314, 2 
+Tài chính tiền tệ, FIA1326, 3 
+Marketing căn bản, MAR1322, 3 
+Nguyên lý kế toán, FIA1321, 3 
+Quản trị học, BSA1328, 3 
+Nguyên lý thống kê kinh tế, BSA1348, 3 
+Quản trị tài chính doanh nghiệp, FIA1324, 3 
+Thanh toán quốc tế, FIA1327, 2 
+
+#Môn học lựa chọn (chọn 3/5)
+Ngân hàng và nghiệp vụ ngân hàng, FIA1439, 2 
+Thị trường trứng khoán, FIA1433, 2 
+Định giá doanh nghiệp, FIA1440, 2 
+Kiểm toán nội bộ FIA1438 2 
+Thương mại điện tử, MAR1323, 2
+
+#Kiến thức chuyên ngành
+Kế toán tài chính 2, FIA1313, 3 
+ACCA, FIA1401, 3 
+CFA, FIA1402, 3 
+Phân tích hoạt động kinh doanh BSA1320 2 
+Hệ thống thông tin kế toán, FIA1404, 3
+Kế toán máy, FIA1409, 2
+Kế toán quản trị 2, FIA1441, 3 
+Kế toán tài chính 3, FIA1414, 2 
+Phân tích báo cáo tài chính doanh nghiệp, FIA1422, 2 
+Thuế và kế toán thuế, FIA1420, 3 
+Kiểm toán tài chính, FIA1416, 3 
+
+#Môn lựa chọn (chọn 3/6)
+Kế toán doanh nghiệp bảo hiểm, FIA1406, 2 
+Kế toán công, FIA1405, 2 
+Kế toán doanh nghiệp Bưu chính viễn thông, FIA1435, 2 
+Kế toán ngân hàng thương mại, FIA1408, 2 
+Kế toán doanh nghiệp vận tải, FIA1436, 2 
+Kế toán doanh nghiệp du lịch, FIA1437, 2

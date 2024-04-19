@@ -1,0 +1,77 @@
+#Khối kiến thức chung
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3 
+Tư tưởng Hồ Chí Minh, BAS1122, 2
+Đường lối cách mạng Đảng cộng sản VN, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+
+#Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+
+#Kiến thức kỹ năng chọn 3/7,
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập văn bản, SKD1103, 1 
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1 
+Kỹ năng giải quyết vấn đề, SKD1106, 1 
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+
+#Khối kiến thức cơ bản nhóm ngành
+Lịch sử văn minh thế giới, MUL12117, 2
+Pháp luật đại cương, BSA1221, 2 
+Marketing căn bản, MAR1322, 3 
+Cơ sở văn hóa Việt Nam, MUL1240, 2 
+Phương pháp nghiên cứu truyền thông, MUL1289, 2 
+Nhập môn đa phương tiện, MUL1320, 2
+
+#Kiến thức cơ sở ngành và ngành
+Nhập môn truyền thông, MUL1391, 2 
+Lý thuyết truyền thông, MUL1392, 2 
+Truyền thông xã hội, MUL1393, 2 
+Truyền thông và dư luận xã hội, MUL1394, 2 
+Pháp luật và đạo đức truyền thông, MUL13118, 2 
+Các loại hình báo chí hiện đại, MUL13119, 2 
+Nhập môn PR, MUL1395, 2 
+Nhập môn quảng cáo, MUL13120, 2 
+Thiết kế đồ họa cơ bản, MUL1426, 3 
+Kỹ thuật nhiếp ảnh, MUL1313, 3 
+Quay phim, MUL13147, 3 
+Viết đa phương tiện, MUL1396, 2 
+Biên tập văn bản báo chí, MUL1397, 2 
+Nghệ thuật kể chuyện đa phương tiện, MUL1398, 2 
+Phỏng vấn: Lý thuyết và thực hành, MUL1399, 2 
+Diễn thuyết trước công chúng, MUL13100, 2 
+Báo chí điều tra, MUL13101, 2 
+Rủi ro và xử lý khủng hoảng truyền thông, MUL13102, 2 
+
+#Các học phần tự chọn chọn 3/7,
+Kịch bản đa phương tiện, MUL1423, 2 
+Thiết kế ấn phẩm báo chí, MUL1463, 2 
+Đồ án thiết kế sản phẩm đa phương, tiện MUL14141, 2 
+Thiết kế tương tác đa phương tiện, MUL1425, 2 
+Ngôn ngữ truyền thông, MUL13105, 2 
+Truyền thông quốc tế, MUL13103, 2
+Kinh tế truyền thông, MUL13104, 2
+
+#major
+Báo chí đa phương tiện, MUL13106, 3 
+Báo chí dữ liệu, MUL13107, 2 
+Lý thuyết PR, MUL13108, 2 
+PR: Chiến lược và thực hành, MUL13109, 3 
+Quảng cáo đa phương tiện, MUL13110, 2 
+Quảng cáo: Chiến lược và thực hành, MUL13111, 3 
+Quản lý dự án truyền thông, MUL13112, 2 
+Ứng dụng đồ họa đa phương tiện, MUL13113, 3
+Ứng dụng thiết kế web, MUL13114, 3
+Ứng dụng sản xuất audio và video, MUL13115, 3

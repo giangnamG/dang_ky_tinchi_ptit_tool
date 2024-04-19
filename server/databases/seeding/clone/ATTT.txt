@@ -1,0 +1,74 @@
+#Khối kiến thức chung
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3
+Tư tưởng Hồ Chí Minh, BAS1122, 2 
+Đường lối cách mạng Đảng cộng sản Việt Nam, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Tin học cơ sở 2, INT1155, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+
+#Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+
+#Kiến thức kỹ năng chọn (3/7)
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập Văn bản, SKD1103, 1
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1
+Kỹ năng giải quyết vấn đề, SKD1106, 1
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+
+#Khối kiến thức cơ bản nhóm ngành
+Giải tích 1, BAS1203, 3 
+Giải tích 2, BAS1204, 3 
+Đại số, BAS1201, 3 
+Vật lý 1 và thí nghiệm, BAS1224, 4 
+Vật lý 3 và thí nghiệm, BAS1227, 4 
+Xác suất thống kê, BAS1226, 2
+
+#Kiến thức cơ sở ngành
+Kỹ thuật số ELE1433 2 
+Toán rời rạc 1, INT1358, 3 
+Toán rời rạc 2, INT1359, 3 
+Ngôn ngữ lập trình C++, INT1339, 3
+Cấu trúc dữ liệu và giải thuật, INT1306, 3 
+Cơ sở dữ liệu, INT1313, 3 
+Kiến trúc máy tính, INT1323, 2 
+Kỹ thuật vi xử lý, INT1330, 3 
+Lý thuyết thông tin, ELE1319, 3 
+Hệ điều hành, INT1319, 3 
+Lập trình hướng đối tượng, INT1332, 3 
+Mạng máy tính, INT1336, 3 
+Nhập môn công nghệ phần mềm, INT1340, 3 
+Lập trình Web, INT1434, 3 
+Phân tích và thiết kế hệ thống thông tin, INT1342, 3 
+Cơ sở an toàn thông tin, INT1472, 3 
+Mật mã học cơ sở, INT1344, 3
+
+# Kiến thức ngành
+-- Kiến thức ngành
+Lập trình mạng, INT1433, 3 
+Kiểm thử xâm nhập, INT14107, 3 
+Hệ điều hành Windows và linux/unix, INT1487, 3
+An toàn mạng, INT1482, 3 
+An toàn hệ điều hành, INT1484, 2 
+Quản lý an toàn thông tin, INT14106, 3 
+An toàn ứng dụng Web và CSDL, INT14105, 3 
+An toàn mạng nâng cao, INT1483, 3 
+Kỹ thuật theo dõi giám sát an toàn mạng, INT1429, 2 
+Phát triển ứng dụng cho các thiết bị di động, INT1449, 3
++++ Học phần tự chọn (2/4 học phần)
+Mật mã học nâng cao, INT1491, 2 
+Phát triển phần mềm an toàn, INT1463, 2 
+Khoa học pháp lý số, INT1488, 2 
+Các kỹ thuật giấu tin, INT14102, 2

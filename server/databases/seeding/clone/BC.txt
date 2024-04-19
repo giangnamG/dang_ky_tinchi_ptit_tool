@@ -1,0 +1,49 @@
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3 
+Tư tưởng Hồ Chí Minh, BAS1122, 2
+Đường lối cách mạng Đảng cộng sản VN, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+#Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập văn bản, SKD1103, 1 
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1 
+Kỹ năng giải quyết vấn đề, SKD1106, 1 
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+
+Mỹ thuật đại cương MUL13167 2
+Nhập môn thiết kế và sự sáng tạo MUL13168 2
+Nghệ thuật chữ và nguyên tắc ứng dụng trên các nền tảng phân phối MUL13169 3
+Thiết kế đồ họa báo chí MUL13170 3
+Báo chí dữ liệu MUL14107 3
+28 | Nhiếp ảnh báo chí MUL1371 3| 30 | 12
+29 | Kĩ thuật quay và dựng video MUL13172 | 4. | 46 | 12
+30 | Kịch bản cho tác phẩm báo chí số | MUL13173 | 2. | 24 | 6
+34 | Nhập môn công nghệ báo chísố | MUL13174 | 2. | 24 | 6
+32 | Intemet và công nghệ web INT13166 | 3 | 32 | 12
+6) %8
+
+Học phần tự chọn (chọn 3 trong 9 học phần: 6 TC)
+
+33 | Nhập môn Quan hệ công chúng MUL13175 2 24 6
+34 | Thiết kế tương táo trong báo chỉ số | MUL13176 | 2 | 24 | 6
+35. | Văn hóa đại chúng châu Á MUL13177 12.124 |). 6
+36 | Thống kê xã hội học MUL13178 | 2 |24 | 6
+37 |Truyềnthôngvàpháttiểnxãhội | MUL13179 | 2.124 |L.s6
+38 | Quản trị khủng hoảng truyền thông | MUL13180 | 2. 124. | 6
+39 | Tổ chức sự kiện MUL1311 | 2.124 | 6
+40 | Tư duy đỗi mới trong báo chí MUL13982 2.124 | 6
+41. | Giao tiếp kinh doanh trong báo chí | MUL13183 | 2. | 24 | 6
+

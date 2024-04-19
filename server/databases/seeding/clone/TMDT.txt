@@ -1,0 +1,71 @@
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3 
+Tư tưởng Hồ Chí Minh, BAS1122, 2
+Đường lối cách mạng Đảng cộng sản VN, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+#Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập văn bản, SKD1103, 1 
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1 
+Kỹ năng giải quyết vấn đề, SKD1106, 1 
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+Toán cao cấp 1, BAS1219, 2
+Toán cao cấp 2, BAS1220, 2 
+Lý thuyết xác suất và thống kê, BAS1210, 3 
+Toán kinh tế, BSA1241, 3 
+Pháp luật đại cương, BSA1221, 2 
+Kinh tế vi mô 1, BSA1310, 3
+Kinh tế vĩ mô 1, BSA1311, 3
+Marketing căn bản, MAR1322, 3 
+Thống kê doanh nghiệp, BSA1338, 3 
+Quản trị học, BSA1328, 3 
+Quản trị nhân lực, BSA1331, 3 
+Quản trị sản xuất, BSA1333, 3 
+Thương mại điện tử căn bản, BSA1365, 3 
+Logistics căn bản, BSA1351, 2 
+Quản trị doanh nghiệp thương mại, BSA1352, 2 
+Nguyên lý lập trình, INT13112, 3 
+Nhập môn cơ sở dữ liệu, INT13113, 3 
+Mạng máy tính và truyền thông, INT13114, 3 
+Thiết kế web cơ bản, MUL1429, 2 
+An toàn dữ liệu và bảo mật trong thương mại điện tử, INT13116, 2 
+Giao tiếp trong kinh doanh, BSA1448, 2 
+Quản trị công nghệ, BSA1326, 2 
+Quản trị chất lượng, BSA1324, 2
+Phân tích hoạt động kinh doanh, BSA1320, 2 
+Luật kinh doanh, BSA1314, 2
+Quản trị cơ sở dữ liệu kinh doanh, MAR1312, 2 
+Kế toán căn bản, FIA1342, 2 
+Hệ thống thông tin quản lý, BSA1307, 2 
+Tài chính doanh nghiệp, FIA1325, 3 
+E-Marketing, MAR1427, 2 
+Kinh doanh quốc tế, BSA1353, 2 
+Quản trị dự án, BSA1364, 2 
+Quản trị bán hàng và phân phối sản, BSA1354, 2 
+Pháp luật về thương mại điện tử và an toàn thông tin, BSA1355, 2
+Phân tích thiết kế hệ thống thương mại điện tử, BSA1456, 2 
+Phân tích dữ liệu phục vụ cho quyết định kinh doanh, MAR1441, 2 
+Thanh toán điện tử, BSA1437, 2 
+Bán lẻ trực tuyến, BSA1457, 2 
+Khởi sự kinh doanh thương mại điện tử, BSA1458, 2 
+Chuyên đề Quản trị thương mại điện tử, BSA1459, 2 
+Chuyên đề Tác nghiệp thương mại điện tử, BSA1460, 2 
+Thương mại di động, BSA1461, 2 
+Truyền thông thương hiệu trong môi trường trực tuyến, BSA1462, 2
+Giao tiếp chuyên nghiệp trong truyền thông, MUL1469, 2
+Chính phủ điện tử, BSA1463, 2 
+Quản trị quan hệ khách hàng trong thương mại điện tử, BSA1466, 2
+Quản trị rủi ro trong thương mại điện tử, BSA1467, 2

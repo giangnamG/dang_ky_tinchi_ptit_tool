@@ -1,0 +1,162 @@
+# Khối kiến thức chung
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3
+Tư tưởng Hồ Chí Minh, BAS1122, 2 
+Đường lối cách mạng Đảng cộng sản Việt Nam, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Tin học cơ sở 2, INT1155, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+
+# Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+
+# Kiến thức kỹ năng chọn (3/7)
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập Văn bản, SKD1103, 1
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1
+Kỹ năng giải quyết vấn đề, SKD1106, 1
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+
+# Khối kiến thức cơ bản nhóm ngành
+Giải tích 1, BAS1203, 3 
+Giải tích 2, BAS1204, 3 
+Đại số, BAS1201, 3 
+Vật lý 1 và thí nghiệm, BAS1224, 4
+Vật lý 3 và thí nghiệm, BAS1227, 4 
+Xác suất thống kê, BAS1226, 2
+
+# Kiến thức cơ sở ngành
+Kỹ thuật số, ELE1433, 2 
+Toán rời rạc 1, INT1358, 3 
+Toán rời rạc 2, INT1359, 3 
+Ngôn ngữ lập trình C++, INT1339, 3 
+Cấu trúc dữ liệu và giải thuật, INT1306, 3 
+Cơ sở dữ liệu, INT1313, 3 
+Kiến trúc máy tính, INT1323, 2 
+Kỹ thuật vi xử lý, INT1330, 3 
+Xử lý tín hiệu số, ELE1330, 2 
+Hệ điều hành, INT1319, 3 
+Lập trình hướng đối tượng, INT1332, 3 
+Mạng máy tính, INT1336, 3 
+Nhập môn công nghệ phần mềm, INT1340, 3 
+Nhập môn trí tuệ nhân tạo, INT1341, 3 
+Phân tích và thiết kế hệ thống thông tin, INT1342, 3 
+Lý thuyết thông tin, ELE1319, 3 
+Kỹ thuật đồ họa (*), INT1328, 2 
+An toàn và bảo mật hệ thống thông tin, INT1303, 3
+Xử lý ảnh, INT1362, 2
+
+# Kiến thức ngành
+--  Chuyên ngành Hệ thống thông tin
+Lập trình Web, INT1434, 3 
+Quản lý dự án phần mềm, INT1450, 2 
+Cơ sở dữ liệu phân tán, INT1414, 2 
+Lập trình mạng, INT1433, 3 
+Phát triển hệ thống thương mại điện tử, INT1446, 3 
+Hệ cơ sở dữ liệu đa phương tiện, INT1418, 3 
+Phát triển hệ thống thông tin quản lý, INT1445, 3 
+Kho dữ liệu và khai phá dữ liệu, INT1422, 3 
+Các hệ thống phân tán, INT1405, 3 
+Chuyên đề, INT1409, 1 
++++  Học phần tự chọn (chọn 1/4)
+Hệ trợ giúp quyết định, INT1421, 3 
+Các hệ thống dựa trên tri thức, INT1404, 3 
+Phát triển phần mềm hướng dịch vụ, INT1448, 3 
+Cấu trúc dữ liệu và giải thuật nâng cao trên Java, INT14101, 3 
+
+--  Chuyên ngành Máy tính và truyền thông
+Lập trình Web, INT1434, 3 
+Quản lý dự án phần mềm, INT1450, 2 
+Cơ sở dữ liệu phân tán, INT1414, 2 
+Lập trình mạng, INT1433, 3 
+Thiết kế mạng máy tính, INT1452, 3 
+Đánh giá hiệu năng mạng, INT1415, 3 
+Quản lý mạng máy tính, INT1451, 3 
+An ninh mạng, INT1402, 3 
+Các hệ thống phân tán, INT1405, 3 
+Chuyên đề, INT1412, 1 
++++ Học phần tự chọn (chọn 1/3)
+Kiến trúc và thuật toán song song, INT1426, 3 
+Hệ cơ sở dữ liệu đa phương tiện, INT1418, 3 
+Mạng viễn thông thế hệ mới, TEL1423, 3 
+
+-- Chuyên ngành Công nghệ phần mềm
+Lập trình Web, INT1434, 3 
+Quản lý dự án phần mềm, INT1450, 2 
+Cơ sở dữ liệu phân tán, INT1414, 2 
+Lập trình mạng, INT1433, 3 
+Kiến trúc và thiết kế phần mềm, INT1427, 3 
+Xây dựng các hệ thống nhúng, INT1461, 3 
+Đảm bảo chất lượng phần, INT1416, 3 
+Phát triển phần mềm hướng dịch vụ, INT1448, 3 
+Phát triển ứng dụng cho các thiết bị di động, INT1449, 3 
+Chuyên đề, INT1408, 1 
++++ Học phần tự chọn (chọn 1/4)
+Phát triển phần mềm hướng Agent, INT1447, 3 
+Các hệ thống phân tán, INT1405, 3 
+Tương tác người máy, INT1460, 3 
+Cấu trúc dữ liệu và giải thuật nâng cao trên Java, INT14101, 3
+
+-- Chuyên ngành Khoa học máy tính
+Lập trình Web, INT1434, 3 
+Quản lý dự án phần mềm, INT1450, 2 
+Cơ sở dữ liệu phân tán, INT1414, 2 
+Lập trình mạng, INT1433, 3 
+Phân tích và thiết kế thuật toán, INT1443, 3 
+Xử lý tiếng nói, ELE1432, 3 
+Kiến trúc và thuật toán song song, INT1426, 3 
+Thiết kế và cài đặt hệ điều hành, INT1453, 3 
+Các hệ thống phân tán, INT1405, 3 
+Chuyên đề, INT1410, 1 
++++ Học phần tự chọn (chọn 1/5)
+Agent và hệ đa agent, INT1401, 3 
+Chương trình dịch, INT1407, 3 
+Hệ trợ giúp quyết định, INT1421, 3 
+Mạng nơron, INT1437, 3 
+Cấu trúc dữ liệu và giải thuật nâng cao trên Java, INT14101, 3
+
+-- Chuyên ngành Kỹ thuật máy tính
+Quản lý dự án phần mềm, INT1450, 2 
+Cơ sở dữ liệu phân tán, INT1414, 2
+Lập trình hệ thống và điều khiển thiết bị, INT1431, 3 
+Thiết kế logic số, ELE1426, 3 
+Kiến trúc và thuật toán song song, INT1426, 3 
+Tương tác người máy, INT1460, 3 
+Thiết kế và cài đặt hệ điều hành, INT1453, 3 
+Xây dựng các hệ thống nhúng, INT1461, 3 
+Kiến trúc máy tính tiên tiến, INT1424, 3 
+Chuyên đề, INT1411, 1 
++++ Học phần tự chọn (chọn 1/3)
+Phát triển phần mềm hướng dịch vụ, INT1448, 3 
+Xử lý tiếng nói, ELE1432, 3 
+Lập trình mạng, INT1433, 3
+
+-- Chuyên ngành An toàn thông tin Mạng
+Mật mã học và ứng dụng, INT1471, 3 
+Cơ sở an toàn thông tin, INT1472, 3 
+Pháp luật và chính sách An toàn thông tin, INT1473, 2 
+Lập trình Web, INT1434, 3
+Quản lý dự án phần mềm, INT1450, 2 
+Cơ sở dữ liệu phân tán, INT1414, 2 
+Lập trình mạng, INT1433, 3 
+Các giao thức của Internet, INT1474, 2 
+An toàn hệ điều hành và cơ sở dữ liệu, INT1475, 3 
+An toàn ứng dụng Web, INT1476, 3 
+An toàn thông tin mạng, INT1417, 3 
+Các hệ thống phân tán, INT1405, 3 
+Chuyên đề, INT1438, 1 
++++ Học phần tự chọn (chọn 1/3)
+Phát triển phần mềm an toàn, INT1463, 3 
+Đánh giá An toàn thông tin, INT1435, 3 
+Kỹ thuật theo dõi giám sát An toàn thông tin mạng, INT1429, 3 

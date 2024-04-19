@@ -1,0 +1,101 @@
+#Khối kiến thức chung
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-1, BAS1111, 2 
+Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin-2, BAS1112, 3
+Tư tưởng Hồ Chí Minh, BAS1122, 2 
+Đường lối cách mạng Đảng cộng sản Việt Nam, BAS1102, 3
+Tiếng Anh B11, BAS1145, 3
+Tiếng Anh A11, BAS1141, 3
+Tiếng Anh A12, BAS1142, 4
+Tiếng Anh B12, BAS1146, 4
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A21, BAS1143, 3
+Tiếng Anh A22, BAS1144, 4
+Tiếng Anh A22, BAS1144, 4
+Tin học cơ sở 1, INT1154, 2
+Tin học cơ sở 2, INT1155, 2
+Phương pháp luận nghiên cứu khoa học, SKD1108, 2
+
+#Kiến thức giáo dục thể chất và giáo dục quốc phòng
+Giáo dục thể chất 1, BAS1106, 2
+Giáo dục thể chất 2, BAS1107, 2
+
+#Kiến thức kỹ năng chọn (3/7)
+Kỹ năng thuyết trình, SKD1101, 1
+Kỹ năng làm việc nhóm, SKD1102, 1
+Kỹ năng tạo lập Văn bản, SKD1103, 1
+Kỹ năng lập kế hoạch và tổ chức công việc, SKD1104, 1 
+Kỹ năng giao tiếp và ứng xử, SKD1105, 1
+Kỹ năng giải quyết vấn đề, SKD1106, 1
+Kỹ năng tư duy sáng tạo và mạo hiểm, SKD1107, 1
+
+#Khối kiến thức cơ bản nhóm ngành
+Toán cao cấp 1, BAS1219, 2 
+Toán cao cấp 2, BAS1220, 2 
+Toán rời rạc 1, INT1358, 3
+Xác suất thống kê, BAS1226, 2
+
+#Kiến thức cơ sở ngành và ngành
+Cơ sở tạo hình, MUL1238, 3
+Nhập môn Đa phương tiện, MUL1320, 2 
+Thiết kế đồ họa, MUL13121, 2
+Kỹ thuật nhiếp ảnh, MUL13122, 2
+Mỹ thuật cơ bản, MUL1218, 2
+Kỹ thuật quay phim, MUL1314, 3 
+Ngôn ngữ lập trình Java, INT13108, 3 
+Thiết kế tương tác đa phương tiện, MUL1425, 2
+Thiết kế đồ họa 3D, MUL1454, 3 
+Xử lý và truyền thông đa phương tiện, MUL1307, 2
+Kiến trúc máy tính và hệ điều hành, INT1325, 2
+Thiết kế Web cơ bản, MUL1429, 2
+Kỹ xảo đa phương tiện, MUL1415, 2
+Lập trình hướng đối tượng với C++, INT13109, 3 
+Nhập môn Công nghệ phần mềm, INT1340, 3 
+Tổ chức sản xuất sản phẩm đa phương tiện, MUL1422, 2
+Kịch bản đa phương tiện, MUL1423, 2
+Truyền thông: lý thuyết và ứng dụng, MUL1392, 2
+
+#Học phần tự chọn chọn ½,
+Dựng audio và video phi tuyến, MUL13124, 3 
+Kỹ thuật âm thanh, MUL1312, 3
+
+#Kiến thức chuyên ngành
+Cấu trúc dữ liệu và giải thuật, INT1306, 3 
+Lập trình Web, INT1434, 3 
+Xử lý ảnh và video, MUL14125, 3 
+Cơ sở dữ liệu, INT1313, 3 
+Kỹ thuật đồ họa, INT13111, 3
+Lập trình âm thanh, MUL14126, 2
+Lập trình ứng dụng trên đầu cuối di động, MUL1448, 3 
+Lập trình game cơ bản, MUL1446, 3
+Lập trình kỹ xảo hình ảnh, MUL14128, 2
+Khai phá dữ liệu đa phương tiện, MUL14130, 3 
+Chuyên đề, MUL1451, 1
+
+#Học phần tự chọn chọn 3/6,
+Phát triển dịch vụ giá trị gia tăng trên mạng viễn thông, MUL1450, 3
+Lập trình ứng dụng đa phương tiện, MUL14123, 3
+Phát triển ứng dụng thực tại ảo, MUL14129, 3 
+Lập trình mạng với C++, INT13110, 3
+Lập trình game nâng cao, MUL1483, 3
+Thiết kế game, MUL14127, 3
+
+#Chuyên ngành Thiết kế đồ họa đa phương tiện
+Cơ sở tạo hình nâng cao, MUL14132, 3 
+Mỹ thuật nâng cao, MUL14133, 2 
+Thiết kế hình động 1, MUL14134, 3
+Thiết kế sản phẩm đa phương tiện, MUL14135, 3
+Nghệ thuật đồ họa chữ Typography, MUL14136, 3
+Thiết kế tương tác đa phương tiện nâng cao, MUL14137, 3 
+Thiết kế ấn phẩm điện tử-1, MUL14138, 3
+Chuyên đề, MUL1465, 1 
+Thiết kế ấn phẩm điện tử 2, MUL14139, 3
+Thiết kế hình động 2, MUL14140, 3
+Đồ án thiết kế sản phẩm Đa phương tiện, MUL14141, 2
+
+#Học phần tự chọn (chọn 3/6)
+Lịch sử mỹ thuật và thiết kế, MUL14142, 3 
+Luật xa gần, MUL14131, 3
+Mỹ học MUL14143 3
+Thiết kế hình động 3D, MUL14145, 3
+Kịch bản phân cảnh, MUL14144, 3
+Thiết kế quảng cáo truyền hình, MUL1421, 3

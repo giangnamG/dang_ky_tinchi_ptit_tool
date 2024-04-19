@@ -1,0 +1,73 @@
+Triết học Mác-Lênin, BAS1150, 3
+Kinh tế chính trị Mác-Lênin, BAS1151, 2
+Tư tưởng Hồ Chí Minh, BAS1122, 2
+Lịch sử Đảng cộng sản Việt Nam, BAS1153, 2
+Chủ nghĩa xã hội khoa học, BAS1152, 2
+Introduction to Computing and Programming (Nhập môn tin học và lập trình), INT11117_CLC, 3
+Tiếng Anh (Course 1)_CLC, BAS1162_CLC, 8
+Tiếng Anh (Course 2)_CLC, BAS1163_CLC, 8
+Tiếng Anh (Course 3)_CLC, BAS1164_CLC, 8
+Phương pháp luận nghiên cứu khoa học (Scientific Research Methodologies)	SKD1108	2
+Physical Education 1, BAS1106, 2
+Physical Education 2, BAS1107, 2
+Military Education, BAS1105, 7,5
+Document-writing skills	SKD1103	1
+Presentation skills	SKD1101	1
+Teamwork skills	SKD1102	1
+Calculus 1 (Giải tích 1), BAS1203_CLC, 3
+Calculus 2 (Giải tích 2), BAS1204_CLC, 3
+Algebra (Đại số), BAS1201_CLC, 3
+Physics 1 (Vật lý 1 và thí nghiệm), BAS1224_CLC, 4
+Physics 3 (Vật lý 3 và thí nghiệm), BAS1227_CLC, 4
+Probability and Statistics  (Xác suất thống kê), BAS1226_CLC, 2
+Digital Electronics (Điện tử số), ELE1309_CLC, 3
+Microprocessors (Kỹ thuật Vi xử lí), INT1330_CLC, 3
+Discrete Mathematics 1 (Toán rời rạc 1), INT1358_CLC, 3
+Discrete Mathematics 2 (Toán rời rạc 2), INT1359_CLC, 3
+Programming with C++ (Ngôn ngữ lập trình C++), INT1339_CLC, 3
+Data Structures and Algorithms (Cấu trúc dữ liệu và giải thuật), INT1306_CLC, 3
+Databases (Cơ sở dữ liệu), INT1313_CLC, 3
+Distributed Databases (Cơ sở dữ liệu phân tán), INT1414_CLC, 2
+Computer Architecture (Kiến trúc máy tính), INT13145_CLC, 3
+Operating Systems (Hệ điều hành), INT1319_CLC, 3
+Object-Oriented Programming (Lập trình hướng đối tượng), INT1332_CLC, 3
+Computer Networks (Mạng máy tính), INT1336_CLC, 3
+Introduction to Software Engineering (Nhập môn công nghệ phần mềm), INT1340_CLC, 3
+Introduction to Artificial Intelligence (Nhập môn trí tuệ nhân tạo), INT1341_CLC, 3
+Analysis and Design of Information Systems (Phân tích và thiết kế hệ thống thông tin), INT1342_CLC, 3
+Web Programming (Lập trình Web), INT1434_CLC, 3
+Fundamentals of Information Security  (Cơ sở an toàn thông tin), INT1472_CLC, 3
+Mobile Application Development  (Phát triển ứng dụng cho các thiết bị di động), INT1449_CLC, 3
+Software Project Management (Quản lý dự án phần mềm), INT1450_CLC, 3
+Network Programming (Lập trình mạng), INT1433_CLC, 3
+Software Architecture and Design (Kiến trúc và thiết kế phần mềm), INT1427_CLC, 3
+Software Quality Assurance (Đảm bảo chất lượng phần mềm), INT1416_CLC, 3
+Service-Oriented Software Development  (Phát triển phần mềm hướng dịch vụ), INT1448_CLC, 3
+Distributed Systems (Các hệ thống phân tán), INT1405_CLC, 3
+Human Computer Interaction (Tương tác người máy), INT1460_CLC, 3
+Embedded System Development  (Xây dựng các hệ thống nhúng), INT1461_CLC, 3
+Secure Software Development (Phát triển phần mềm an toàn), INT1463_CLC, 3
+Software Engineering Graduation Module 1 (Học phần thay thế tốt nghiệp 1 ngành CNPM), INT14139_CLC, 4
+Software Engineering Graduation Module 2 (Học phần thay thế tốt nghiệp 2 ngành CNPM), INT14140_CLC, 4
+Python Programming (Lập trình Python), INT14119_CLC, 3
+Introduction to Data Science (Nhập môn Khoa học dữ liệu), INT14120_CLC, 3
+Machine Learning (Học máy), INT14121_CLC, 3
+Introduction to Deep Learning (Nhập môn học sâu), INT14122_CLC, 3
+Image Processing (Xử lý ảnh), INT14123_CLC, 3
+Natural Language Processing (Xử lý ngôn ngữ tự nhiên), INT14124_CLC, 3
+Information Retrieval (Truy xuất thông tin), INT14125_CLC, 3
+Mining Massive Data Sets (Khai phá dữ liệu lớn), INT14126_CLC, 3
+Text Mining and Analytics (Phân tích và khai phá dữ liệu văn bản), INT14127_CLC, 3
+Artificial Intelligence Graduation Module 1 (Học phần thay thế tốt nghiệp 1 ngành TTNT), INT14141_CLC, 4
+Artificial Intelligence Graduation Module 2 (Học phần thay thế tốt nghiệp 2 ngành TTNT), INT14142_CLC, 4
+Introduction to Cryptography (Mật mã học cơ sở), INT1344_CLC, 3
+Network Security (An toàn mạng), INT1482_CLC, 3
+Web and Database & Security (An toàn ứng dụng web và cơ sở dữ liệu), INT14105_CLC, 3
+Windows and  Linux/Unix Administration (Hệ điều hành Windows và Linux/Unix), INT1487_CLC, 3
+Penetration Testing (Kiểm thử xâm nhập), INT14107_CLC, 3
+Management of Information Security (Quản lý an toàn thông tin), INT14106_CLC, 3
+Python Programming (Lập trình Python), INT14119_CLC,  3
+Machine Learning (Học máy), INT14121_CLC, 3
+Advanced Network Security (An toàn mạng nâng cao), INT1483_CLC, 3
+Information security Graduation Module 1 (Học phần thay thế tốt nghiệp 1 ngành ATTT), INT14143_CLC, 4
+Information security Graduation Module 2 (Học phần thay thế tốt nghiệp 2 ngành ATTT), INT14144_CLC, 4
