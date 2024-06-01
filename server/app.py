@@ -91,30 +91,30 @@ def login():
         role_name = user_already_exists.get('result')[5]
         print(user_already_exists)
         if user_already_exists.get('status') == True:
-            isOnline = user_already_exists.get('result')[7]
-            if isOnline == 0:
-                jwt_token = generate_jwt_token(isLogged=True, username=username, role=role_name)
-                models.User().updateIsOnline(username=username,isOnline=1)
-                # print(jwt_token)
-                return {
-                    'Logged':True,
-                    'Access-Token' : jwt_token,
-                    'Username' : username,
-                    'RoleName' : role_name,
-                    'Message' : 'Login successfully'
-                }
-            else:
-                return {
-                    'Logged':False,
-                    'Message': 'Tài khoản được đăng nhập ở 1 nơi khác'
-                }
+            # isOnline = user_already_exists.get('result')[7]
+            # if isOnline == 0:
+            jwt_token = generate_jwt_token(isLogged=True, username=username, role=role_name)
+            # models.User().updateIsOnline(username=username,isOnline=1)
+            print(jwt_token)
+            return {
+                'Logged':True,
+                'Access-Token' : jwt_token,
+                'Username' : username,
+                'RoleName' : role_name,
+                'Message' : 'Login successfully'
+            }
+            # else:
+            #     return {
+            #         'Logged':False,
+            #         'Message': 'Tài khoản được đăng nhập ở 1 nơi khác'
+            #     }
         else:
             return {
                 'Logged': False,
                 'Message': 'Invalid username or password'
                 }
     except Exception as e:
-        # print(e)
+        print(e)
         return {
                 'Logged': False,
                 'Message': 'Something went wrong'

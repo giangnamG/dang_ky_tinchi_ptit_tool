@@ -1,5 +1,5 @@
-host = 'http://localhost:5000'
-URL_FRONTEND = 'http://localhost:3000'
+host = 'http://backend:5000'
+URL_FRONTEND = 'http://frontend:3000'
 # host = 'https://eeb1-113-23-43-103.ngrok-free.app'
 # URL_FRONTEND = 'https://56cc-113-23-43-103.ngrok-free.app'
 host_qldt = 'https://qldt.ptit.edu.vn'
@@ -14,7 +14,7 @@ MYSQL_SSL_MODE = 'REQUIRED'
 #                       localhost
 MYSQL_PORT = 3306
 # MYSQL_HOST = '192.168.1.112'
-MYSQL_HOST = 'localhost'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = ''
+MYSQL_HOST = 'db'
+MYSQL_USER = 'ngn'
+MYSQL_PASSWORD = 'ngn@ngn'
 MYSQL_DATABASE_NAME = 'attackqldt'
